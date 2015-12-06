@@ -6,7 +6,7 @@
 DATETIME=`date +'%Y-%m-%d %H:%M:%S'`
 SRCDIR="/home/dinusha/Test"
 DESTDIR="/home/dinusha/Documents/Temp"
-DESTHOST="192.248.22.150"
+DESTHOST="xxxx"
 LOGFILE="rsync-backup.log"
 
 if [ -e "${LOGFILE}" ]
